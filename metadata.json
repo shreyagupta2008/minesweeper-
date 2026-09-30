@@ -1,0 +1,6 @@
+{
+  "name": "Classic Minesweeper",
+  "description": "A polished, modern retro Minesweeper game featuring Beginner, Intermediate, and Expert difficulties, best time tracking, and smooth responsive gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
